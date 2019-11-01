@@ -1,0 +1,47 @@
+.main_image{
+  float:left;
+}
+.main_image img{
+  width:500px;
+  height: 600px;
+  clip-path:polygon(0 0, 0 100%, 100% 50%);
+}
+form{
+  width:400px;
+  float:left;
+  padding-left:40px;
+  margin-top: 30px;
+}
+
+footer img{
+  width: 300px;
+  height: 80px;
+  float:left;
+
+}
+form .input_T{
+  padding: 7px;
+  width: 80%;
+}
+button{
+  padding: 7px;
+  width: 45%;
+}
+
+footer{
+  float:right;
+  width:350px;
+}
+
+
+#copy{
+  float: right;
+  margin-top: 500px;
+
+}
+
+#private {
+  float: right;
+  color: blue;
+  margin-top:500px;
+}
